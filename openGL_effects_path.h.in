@@ -1,0 +1,11 @@
+/*!
+* \file openGL_effects.h.in
+* A CMake generated file for compiling otions
+* \date 11/2014
+* \author Arnaud Ramey
+*/
+#ifndef OPENGL_EFFECTS_H
+
+#define OPENGL_EFFECTS_PATH       "@PROJECT_SOURCE_DIR@/"
+
+#endif /* OPENGL_EFFECTS_H */
