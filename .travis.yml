@@ -5,7 +5,7 @@ compiler:
 
 before_install:
   # install deps
-  - sudo apt-get install -y cmake gl-dev freeglut3-dev
+  - sudo apt-get install -y cmake  freeglut3-dev
 
 script: # compile
   - mkdir build
