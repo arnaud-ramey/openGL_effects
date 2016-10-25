@@ -2,6 +2,8 @@
                   |     openGL_effects   |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/openGL_effects.svg)](https://travis-ci.org/arnaud-ramey/openGL_effects)
+
 A demo for OpenGL effects.
 
 License :                  see the LICENSE file.
