@@ -5,7 +5,7 @@ compiler:
 
 before_install:
   # install deps
-  - sudo apt-get install -y cmake  freeglut3-dev  libxmu-dev
+  - sudo apt-get install -y cmake  freeglut3-dev   libxmu-dev  libxi-dev
 
 script: # compile
   - mkdir build
